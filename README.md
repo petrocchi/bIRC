@@ -1,6 +1,6 @@
 # bIRC
 Easy IRC Client for SSL IRC server
-
+```s
  _    ___ ____   ____    ___   _ 
 | |__|_ _|  _ \ / ___|  / _ \ / |
 | '_ \| || |_) | |     | | | || |
@@ -23,4 +23,4 @@ Brevius commands:
 /j <chan>	join
 /p <chan>	part
 /q		quit
-
+```
